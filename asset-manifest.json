@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tile-app/static/css/main.e8f746d2.chunk.css",
+    "main.js": "/tile-app/static/js/main.ca915d77.chunk.js",
+    "main.js.map": "/tile-app/static/js/main.ca915d77.chunk.js.map",
+    "runtime-main.js": "/tile-app/static/js/runtime-main.f51f444d.js",
+    "runtime-main.js.map": "/tile-app/static/js/runtime-main.f51f444d.js.map",
+    "static/js/2.5f846b51.chunk.js": "/tile-app/static/js/2.5f846b51.chunk.js",
+    "static/js/2.5f846b51.chunk.js.map": "/tile-app/static/js/2.5f846b51.chunk.js.map",
+    "index.html": "/tile-app/index.html",
+    "static/css/main.e8f746d2.chunk.css.map": "/tile-app/static/css/main.e8f746d2.chunk.css.map",
+    "static/js/2.5f846b51.chunk.js.LICENSE.txt": "/tile-app/static/js/2.5f846b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51f444d.js",
+    "static/js/2.5f846b51.chunk.js",
+    "static/css/main.e8f746d2.chunk.css",
+    "static/js/main.ca915d77.chunk.js"
+  ]
+}
